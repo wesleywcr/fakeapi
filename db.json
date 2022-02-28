@@ -1,67 +1,70 @@
 {
-  "posts":[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "7 dicas para garantir um boa noite de sono",
-    "body": "O que se pode fazer para melhorar o sono e lidar com a insônia? Que estratégias as pessoas e as empresas podem usar tanto para lidar com esse problema como para preveni-lo? Algumas estratégias básicas compreendem uma combinação de medidas ligadas ao estilo de vida, comportamento e psicoterapia."
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "Setembro Amarelo: como empresas podem criar um ambiente de segurança psicológica",
-    "body": "Hoje, já conhecemos o Setembro Amarelo e seu significado. Esse marco temporal se tornou parte das ações de promoção de saúde de empresas, governos, formadores de opinião e da sociedade em geral. Isso mostra a importância de se falar, compreender e prevenir um fenômeno complexo como o suicídio."
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title":"Por que é preciso ter um olhar diferenciado para a saúde mental da mulher?",
-    "body":  "As histórias que remetem à criação do Dia Internacional da Mulher alimentam o imaginário de que a data teria surgido a partir de um incêndio em uma fábrica têxtil de Nova York em 1911, quando cerca de 130 operárias morreram carbonizadas."
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "Como a insônia pode estar relacionada à sua saúde mental?",
-    "body":"Quem nunca teve uma má noite de sono e acordou com mau humor e umas olheiras a mais para encarar o dia que atire a primeira pedra. É certo que uma noite de sono mal dormida pode ser o fator determinante para como será o nosso dia."
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "Saúde mental na área de tecnologia",
-    "body": "Se você que perdeu o nosso bate-papo online sobre saúde mental no meio de tech, esse artigo é para você! Nós reunimos aqui as melhores dicas que deram os doutores"
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "dolorem eum magni eos aperiam quia",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "magnam facilis autem",
-    "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "dolorem dolore est ipsam",
-    "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "nesciunt iure omnis dolorem tempora et accusantium",
-    "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "optio molestias id quia eum",
-    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
-  }
-],
-  "users":[
+  "posts": [
+    {
+      "userId": 1,
+      "title": "7 dicas para garantir um boa noite de sono",
+      "body": "O que se pode fazer para melhorar o sono e lidar com a insônia? Que estratégias as pessoas e as empresas podem usar tanto para lidar com esse problema como para preveni-lo? Algumas estratégias básicas compreendem uma combinação de medidas ligadas ao estilo de vida, comportamento e psicoterapia.",
+      "actor":"Leanne Graham",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "actor":"Ervin Howell",
+      "title": "Setembro Amarelo: como empresas podem criar um ambiente de segurança psicológica",
+      "body": "Hoje, já conhecemos o Setembro Amarelo e seu significado. Esse marco temporal se tornou parte das ações de promoção de saúde de empresas, governos, formadores de opinião e da sociedade em geral. Isso mostra a importância de se falar, compreender e prevenir um fenômeno complexo como o suicídio."
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "actor":"Clementine Bauch",
+      "title": "Por que é preciso ter um olhar diferenciado para a saúde mental da mulher?",
+      "body": "As histórias que remetem à criação do Dia Internacional da Mulher alimentam o imaginário de que a data teria surgido a partir de um incêndio em uma fábrica têxtil de Nova York em 1911, quando cerca de 130 operárias morreram carbonizadas."
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "actor":"Patricia Lebsack",
+      "title": "Como a insônia pode estar relacionada à sua saúde mental?",
+      "body": "Quem nunca teve uma má noite de sono e acordou com mau humor e umas olheiras a mais para encarar o dia que atire a primeira pedra. É certo que uma noite de sono mal dormida pode ser o fator determinante para como será o nosso dia."
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "actor":"Chelsey Dietrich",
+      "title": "Saúde mental na área de tecnologia",
+      "body": "Se você que perdeu o nosso bate-papo online sobre saúde mental no meio de tech, esse artigo é para você! Nós reunimos aqui as melhores dicas que deram os doutores"
+    },
+    {
+      "userId": 6,
+      "id": 6,
+      "actor":"Mrs. Dennis Schulist",
+      "title": "dolorem eum magni eos aperiam quia",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    },
+    {
+      "userId": 7,
+      "id": 7,
+      "actor":"Kurtis Weissnat",
+      "title": "Anonymous declara guerra cibernética contra Rússia por invasão na Ucrânia",
+      "body": "Poucas horas após a Rússia iniciar a invasão na Ucrânia na madrugada desta quinta-feira (24), o grupo hacker Anonymous afirmou que está iniciando uma guerra cibernética com a nação russa."
+    },
+    {
+      "userId": 8,
+      "id": 8,
+      "actor":"Nicholas Runolfsdottir V",
+      "title": "Review Motorola Edge 30 Pro | O celular mais poderoso da Motorola",
+      "body": "A Motorola tenta alcançar a Apple e a Samsung no segmento de celulares premium com a linha Edge desde 2020, quando o topo de linha Edge+ (Plus) foi lançado. O modelo foi muito elogiado principalmente pelo chipset Snapdragon 865 e o suporte ao 5G."
+    },
+   
+    {
+      "userId": "2886c706-0daa-46b5-b480-f2d61b56a1ba",
+      "id": "0ad01032-9831-11ec-88f5-fdb888382475",
+      "title": "Wesley post",
+      "body": "Esse conteúdo"
+    }
+  ],
+  "users": [
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -248,12 +251,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-  
- 
